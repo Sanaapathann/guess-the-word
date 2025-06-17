@@ -1,0 +1,52 @@
+{
+  "fruits": [
+    "apple", "banana", "cherry", "dates", "melon", "watermelon", "grape", "orange",
+    "papaya", "pineapple", "kiwi", "pear", "peach", "plum", "guava", "mango",
+    "fig", "apricot", "blueberry", "blackberry", "strawberry", "raspberry", "lychee"
+  ],
+  "cars": [
+    "audi", "tesla", "bmw", "mustang", "ferrari", "lamborghini", "porsche", "nissan",
+    "toyota", "honda", "volkswagen", "mercedes", "chevrolet", "hyundai", "jaguar",
+    "bugatti", "rollsroyce", "mazda", "jeep", "subaru", "lexus"
+  ],
+  "animals": [
+    "tiger", "elephant", "giraffe", "kangaroo", "zebra", "lion", "leopard", "panda",
+    "rhinoceros", "hippopotamus", "monkey", "cheetah", "deer", "bear", "fox",
+    "wolf", "otter", "camel", "koala", "penguin", "sloth", "dolphin"
+  ],
+  "countries": [
+    "india", "brazil", "canada", "france", "germany", "japan", "china", "mexico",
+    "argentina", "australia", "russia", "southafrica", "egypt", "italy", "spain",
+    "portugal", "vietnam", "indonesia", "saudiarabia", "thailand", "ukraine", "turkey"
+  ],
+  "colors": [
+    "red", "blue", "green", "yellow", "purple", "orange", "pink", "black", "white",
+    "brown", "cyan", "magenta", "beige", "maroon", "turquoise", "indigo", "gold",
+    "silver", "lime", "teal", "violet", "navy"
+  ],
+  "sports": [
+    "football", "cricket", "tennis", "badminton", "hockey", "basketball", "baseball",
+    "volleyball", "golf", "rugby", "wrestling", "boxing", "cycling", "swimming",
+    "skiing", "archery", "karate", "judo", "fencing", "rowing", "skateboarding"
+  ],
+  "programming": [
+    "python", "java", "javascript", "html", "css", "csharp", "cplusplus", "php",
+    "ruby", "swift", "go", "kotlin", "typescript", "dart", "sql", "bash", "r", "rust",
+    "perl", "matlab", "assembly"
+  ],
+  "cities": [
+    "newyork", "paris", "tokyo", "delhi", "london", "berlin", "moscow", "beijing",
+    "sydney", "dubai", "mumbai", "shanghai", "rome", "seoul", "bangkok", "toronto",
+    "sanfrancisco", "amsterdam", "chicago", "boston", "singapore", "lisbon"
+  ],
+  "emotions": [
+    "happy", "sad", "angry", "excited", "nervous", "confused", "scared", "tired",
+    "bored", "jealous", "surprised", "anxious", "hopeful", "lonely", "joyful", "grateful",
+    "ashamed", "guilty", "calm", "confident", "embarrassed", "proud"
+  ],
+  "occupations": [
+    "doctor", "engineer", "teacher", "lawyer", "nurse", "police", "chef", "artist",
+    "pilot", "scientist", "farmer", "mechanic", "architect", "writer", "musician",
+    "dentist", "actor", "photographer", "journalist", "firefighter", "athlete", "cashier"
+  ]
+}
