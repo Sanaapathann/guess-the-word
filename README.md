@@ -10,13 +10,16 @@ A fun word-guessing game built using Python and Tkinter! Choose a category, gues
 - **Minimalist Design:** Styled using a custom color palette for aesthetics.
 
 ## Screenshots 📸
-![Game Start](images/pic1.png)
-![Category Selection](images/pic2.png)
-![Guessing Interface](images/pic3.png)
-![Hints Progression](images/pic4.png)
-![Win Screen](images/pic5.png)
-![Lose Screen](images/pic6.png)
-![Play Again](images/pic7.png)
+<p float="left">
+  <img src="images/pic1.png" width="200"/>
+  <img src="images/pic2.png" width="200"/>
+  <img src="images/pic3.png" width="200"/>
+  <img src="images/pic4.png" width="200"/>
+  <img src="images/pic5.png" width="200"/>
+  <img src="images/pic6.png" width="200"/>
+  <img src="images/pic7.png" width="200"/>
+</p>
+
 
 ## Installation 📦
 1. Clone the repository:
