@@ -1,4 +1,4 @@
-# Guess the Word Game 🎭
+# Guess the Word Game 
 
 A fun word-guessing game built using Python and Tkinter! Choose a category, guess the word, and earn points based on the number of attempts.
 
