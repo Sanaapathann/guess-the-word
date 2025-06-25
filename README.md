@@ -21,7 +21,7 @@ A fun word-guessing game built using Python and Tkinter! Choose a category, gues
 </p>
 
 
-## Installation 📦
+## Installation 
 1. Clone the repository:
    ```sh
    git clone https://github.com/Sanaapathann/guess-the-word.git
